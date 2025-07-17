@@ -25,6 +25,12 @@ h2 {
   padding-bottom: 0.3rem;
 }
 
+h3 {
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
 a {
   color: #007acc;
   text-decoration: none;
