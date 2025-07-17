@@ -56,4 +56,6 @@ a:hover {
   color: #0077cc;
 }
 
-
+.justified {
+    text-align: justify;
+}
