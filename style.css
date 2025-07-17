@@ -55,3 +55,7 @@ a:hover {
 .navbar a:hover {
   color: #0077cc;
 }
+
+p {
+  text-align: justify;
+}
